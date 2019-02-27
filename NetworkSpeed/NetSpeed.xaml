@@ -1,0 +1,65 @@
+﻿<deskband:CSDeskBandWpf x:Class="NetworkSpeed.NetSpeed"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NetworkSpeed"
+        xmlns:deskband="clr-namespace:CSDeskBand.Wpf;assembly=CSDeskBand.Wpf"
+        mc:Ignorable="d"
+        d:DesignWidth="86" d:DesignHeight="40">
+    <Grid>
+        <StackPanel
+            Orientation="Vertical"
+            HorizontalAlignment="Center"
+            >
+            <StackPanel
+                Orientation="Horizontal"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Center"
+                Height="20">
+                <TextBlock
+                    Name="up_arrow"
+                    Margin="0, 0, 3, 0"
+                    FontFamily="Microsoft YaHei"
+                    FontSize="14"
+                    Foreground="#FF00CC00"
+                    Text="&#x2191;"
+                    TextAlignment="Center"
+                    VerticalAlignment="Center"/>
+                <TextBlock
+                    Name="tb_sendSpeed"
+                    Margin="0, 0, 0, 0"
+                    FontFamily="Microsoft YaHei Light"
+                    FontSize="12"
+                    Foreground="White"
+                    Text="{Binding SendSpeed}"
+                    TextAlignment="Center"
+                    VerticalAlignment="Center"/>
+            </StackPanel>
+            <StackPanel
+                Orientation="Horizontal"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Center"
+                Height="20">
+                <TextBlock
+                    Name="down_arrow"
+                    Margin="0, 0, 3, 0"
+                    FontFamily="Microsoft YaHei"
+                    FontSize="14"
+                    Foreground="Orange"
+                    Text="&#x2193;"
+                    TextAlignment="Center"
+                    VerticalAlignment="Center"/>
+                <TextBlock
+                    Name="tb_revSpeed"
+                    Margin="0, 0, 0, 0"
+                    FontFamily="Microsoft YaHei Light"
+                    FontSize="12"
+                    Foreground="White"
+                    Text="{Binding RevSpeed}"
+                    TextAlignment="Center"
+                    VerticalAlignment="Center"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</deskband:CSDeskBandWpf>

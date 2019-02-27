@@ -1,0 +1,13 @@
+F:\My_Data\VS\Projects\DeskBandsTest\NetworkSpeed\NetworkSpeed\bin\Release\NetworkSpeed.dll
+F:\My_Data\VS\Projects\DeskBandsTest\NetworkSpeed\NetworkSpeed\bin\Release\NetworkSpeed.pdb
+F:\My_Data\VS\Projects\DeskBandsTest\NetworkSpeed\NetworkSpeed\bin\Release\CSDeskBand.dll
+F:\My_Data\VS\Projects\DeskBandsTest\NetworkSpeed\NetworkSpeed\bin\Release\CSDeskBand.Wpf.dll
+F:\My_Data\VS\Projects\DeskBandsTest\NetworkSpeed\NetworkSpeed\obj\Release\NetSpeed.g.cs
+F:\My_Data\VS\Projects\DeskBandsTest\NetworkSpeed\NetworkSpeed\obj\Release\NetworkSpeed_MarkupCompile.cache
+F:\My_Data\VS\Projects\DeskBandsTest\NetworkSpeed\NetworkSpeed\obj\Release\NetworkSpeed_MarkupCompile.lref
+F:\My_Data\VS\Projects\DeskBandsTest\NetworkSpeed\NetworkSpeed\obj\Release\NetSpeed.baml
+F:\My_Data\VS\Projects\DeskBandsTest\NetworkSpeed\NetworkSpeed\obj\Release\NetworkSpeed.g.resources
+F:\My_Data\VS\Projects\DeskBandsTest\NetworkSpeed\NetworkSpeed\obj\Release\NetworkSpeed.csproj.CoreCompileInputs.cache
+F:\My_Data\VS\Projects\DeskBandsTest\NetworkSpeed\NetworkSpeed\obj\Release\NetworkSpeed.csproj.CopyComplete
+F:\My_Data\VS\Projects\DeskBandsTest\NetworkSpeed\NetworkSpeed\obj\Release\NetworkSpeed.dll
+F:\My_Data\VS\Projects\DeskBandsTest\NetworkSpeed\NetworkSpeed\obj\Release\NetworkSpeed.pdb
